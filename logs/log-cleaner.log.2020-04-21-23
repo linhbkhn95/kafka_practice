@@ -1,0 +1,8 @@
+[2020-04-21 23:45:49,212] INFO The cleaning for partition fcm-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-21 23:45:49,213] INFO The cleaning for partition fcm-0 is aborted (kafka.log.LogCleaner)
+[2020-04-21 23:50:18,976] INFO The cleaning for partition fcm-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-21 23:50:18,976] INFO The cleaning for partition fcm-0 is aborted (kafka.log.LogCleaner)
+[2020-04-21 23:50:54,364] INFO The cleaning for partition fcm-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-21 23:50:54,364] INFO The cleaning for partition fcm-0 is aborted (kafka.log.LogCleaner)
+[2020-04-21 23:58:33,755] INFO The cleaning for partition fcm-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-21 23:58:33,755] INFO The cleaning for partition fcm-0 is aborted (kafka.log.LogCleaner)

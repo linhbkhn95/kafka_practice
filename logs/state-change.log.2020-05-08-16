@@ -1,0 +1,4 @@
+[2020-05-08 16:47:04,985] TRACE [Controller id=0 epoch=8] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)
+[2020-05-08 16:54:56,907] TRACE [Controller id=0 epoch=9] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)
+[2020-05-08 16:56:23,161] TRACE [Controller id=0 epoch=10] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)
+[2020-05-08 16:59:46,357] TRACE [Controller id=0 epoch=11] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker 192.168.0.13:9092 (id: 0 rack: null) (state.change.logger)

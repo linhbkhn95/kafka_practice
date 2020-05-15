@@ -1,0 +1,4 @@
+[2020-05-08 11:04:03,212] TRACE [Controller id=0 epoch=5] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)
+[2020-05-08 11:18:43,101] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@2286778, name=log4j:logger=state.change.logger (state.change.logger)
+[2020-05-08 11:18:45,060] TRACE [Controller id=0 epoch=6] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)
+[2020-05-08 11:18:52,247] TRACE [Controller id=0 epoch=7] Received response {error_code=0,_tagged_fields={}} for request UPDATE_METADATA with correlation id 0 sent to broker admina-GL553VE:9092 (id: 0 rack: null) (state.change.logger)

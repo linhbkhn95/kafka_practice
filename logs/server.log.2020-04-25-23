@@ -1,0 +1,3 @@
+[2020-04-26 00:00:24,047] INFO Attempting to delete candidate container: /kafka-manager/mutex/leases (org.apache.zookeeper.server.ContainerManager)
+[2020-04-26 00:00:24,052] INFO Attempting to delete candidate container: /kafka-manager/mutex/locks (org.apache.zookeeper.server.ContainerManager)
+[2020-04-26 00:01:24,046] INFO Attempting to delete candidate container: /kafka-manager/mutex (org.apache.zookeeper.server.ContainerManager)

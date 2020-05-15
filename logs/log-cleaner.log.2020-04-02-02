@@ -1,0 +1,8 @@
+[2020-04-02 02:16:40,269] INFO The cleaning for partition ghtk_chat_socket-1 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-02 02:16:40,272] INFO The cleaning for partition ghtk_chat_socket-1 is aborted (kafka.log.LogCleaner)
+[2020-04-02 02:16:40,290] INFO The cleaning for partition ghtk_chat_socket-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-02 02:16:40,290] INFO The cleaning for partition ghtk_chat_socket-0 is aborted (kafka.log.LogCleaner)
+[2020-04-02 02:17:56,100] INFO The cleaning for partition ghtk_chat_socket-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-02 02:17:56,100] INFO The cleaning for partition ghtk_chat_socket-0 is aborted (kafka.log.LogCleaner)
+[2020-04-02 02:18:31,780] INFO The cleaning for partition ghtk_chat_socket-0 is aborted and paused (kafka.log.LogCleaner)
+[2020-04-02 02:18:31,780] INFO The cleaning for partition ghtk_chat_socket-0 is aborted (kafka.log.LogCleaner)
